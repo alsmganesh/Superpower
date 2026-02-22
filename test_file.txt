@@ -1,0 +1,1 @@
+Success! My Termux is connected. 😆
